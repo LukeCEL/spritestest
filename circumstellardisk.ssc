@@ -1,0 +1,22 @@
+"Disk" "HL Tau"	
+{
+	Class "diffuse"
+	Mesh "hltau.cmod"
+	Texture "blob.png"
+	# Emissive true
+	Color [0.3 0 0]
+	Radius 1.4586e+10	
+
+	EllipticalOrbit {
+		Period	1E+12	
+		SemiMajorAxis		1E-12	
+	}
+
+	UniformRotation {
+		Period 30000
+		Inclination 64 # assumed to be identical to disk
+		AscendingNode 296
+	}
+
+	# InfoURL "https://webdisks.jpl.nasa.gov/show.php?id=80&name=HL%20Tau"
+}
