@@ -1,0 +1,13 @@
+"HL Tau"
+{
+	RA 67.910154
+	Dec 18.232681
+	Distance 460 # 140 pc
+	SpectralType "K5"
+	AppMag 15.10
+
+	UniformRotation {
+		Inclination 64 # assumed to be identical to disk
+		AscendingNode 296
+	}
+}
