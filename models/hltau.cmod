@@ -1,7 +1,7 @@
 #celmodel__ascii
 material
    opacity 0.5
-   texture0 "blob.png"
+   texture0 "27px.png"
    blend normal
 end_material
 
