@@ -2,7 +2,7 @@
 {
 	Class "diffuse"
 	Mesh "hltau.cmod"
-	Texture "blob.png"
+	Texture "27px.png"
 	# Emissive true
 	Color [0.3 0 0]
 	Radius 1.4586e+10	
