@@ -1,6 +1,8 @@
 # spritestest
 This is a test for [Celestia](https://github.com/CelestiaProject/Celestia) 1.7.0 development. Specifically, it is meant to test issue [#549](https://github.com/CelestiaProject/Celestia/issues/549): Stars becoming yellow.
 
+There are two objects that can be used to test this issue. The first is circumstellardisk.ssc, which contains a sprite-based model defined by a SSC file. The second is disktest.dsc, which contains a sprite-based model defined by a DSC file.
+
 ## License
 Everything in this repository is under public domain. 
 
