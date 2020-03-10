@@ -1,5 +1,5 @@
 # spritestest
-This is a test for [Celestia](https://github.com/CelestiaProject/Celestia) 1.7.0 development. Specifically, it is meant to test issue [#549](https://github.com/CelestiaProject/Celestia/issues/549): Stars becoming yellow.
+This is a test for [Celestia](https://github.com/CelestiaProject/Celestia) development. Specifically, it is meant to test issues relating to sprite rendering in Celestia, such as [#549](https://github.com/CelestiaProject/Celestia/issues/549): Stars becoming yellow, and [#649](https://github.com/CelestiaProject/Celestia/issues/649): Sprite objects loaded from DSC files look only for medres textures.
 
 ## License
 Everything in this repository is under public domain. 
@@ -9,4 +9,4 @@ The sprite texture, called 27px.png, was made using Microsoft Word. I created a 
 ## Usage
 To use this test package, simply clone the repository and move the entire thing to the "extras" repository of your Celestia installaion.
 
-There are two objects that can be used to test this issue. The first is circumstellardisk.ssc, which contains a sprite-based model defined by a SSC file. The second is disktest.dsc, which contains a sprite-based model defined by a DSC file.
+There are two objects that can be used to test this issue. The first is circumstellardisk.ssc, which contains a sprite-based model defined by a SSC file. The object in question is called "Disk" and it orbits HL Tau. The second is disktest.dsc, which contains a sprite-based model defined by a DSC file, called "Disk Test".
