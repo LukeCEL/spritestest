@@ -1,5 +1,5 @@
 # spritestest
-This is a test for [Celestia](https://github.com/CelestiaProject/Celestia) development. Specifically, it is meant to test issues relating to sprite rendering in Celestia, such as [#549](https://github.com/CelestiaProject/Celestia/issues/549): Stars becoming yellow, and [#649](https://github.com/CelestiaProject/Celestia/issues/649): Sprite objects loaded from DSC files look only for medres textures.
+This is a test for [Celestia](https://github.com/CelestiaProject/Celestia) development. Specifically, it is meant to test issues relating to sprite rendering in Celestia, such as [#649](https://github.com/CelestiaProject/Celestia/issues/649): Sprite objects loaded from DSC files look only for medres textures.
 
 ## License
 Everything in this repository is under public domain. 
