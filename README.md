@@ -9,4 +9,4 @@ The sprite texture, called 27px.png, was made using Microsoft Word. I created a 
 ## Usage
 To use this test package, simply clone the repository and move the entire thing to the "extras" repository of your Celestia installaion.
 
-There are two objects that can be used to test this issue. The first is circumstellardisk.ssc, which contains a sprite-based model defined by a SSC file. The object in question is called "Disk" and it orbits HL Tau. The second is disktest.dsc, which contains a sprite-based model defined by a DSC file, called "Disk Test".
+There are two files that can be used to test this issue. The first is circumstellardisk.ssc, which contains a sprite-based model defined by a SSC file. The object in question is called "Disk" and it orbits HL Tau. The second is disktest.dsc. It contains a sprite-based model defined by a DSC file, called "Disk Test". There is also another object called "Abell 39", which uses a binary CMOD model.
